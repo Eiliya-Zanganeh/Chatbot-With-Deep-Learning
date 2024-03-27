@@ -1,0 +1,53 @@
+{
+  "intents": [
+    {
+      "tag": "ai",
+      "patterns": [
+        "What is artificial intelligence?",
+        "What is AI?",
+        "What is the use of artificial intelligence?",
+        "What are the capabilities of artificial intelligence?"
+      ],
+      "responses": [
+        "Hey there! Artificial Intelligence (AI) is like the brainiac of the digital world. \u00f0\u0178\u00a7\u00a0 It's all about making machines do tasks that typically require human intelligence. From recognizing speech to playing games to driving cars, AI is everywhere these days! At its core, AI tries to simulate human intelligence in machines. This means getting computers to perform tasks like reasoning, learning, problem-solving, perception, and understanding language.",
+        "Hey there! Great question! \u00f0\u0178\u00a4\u2013 Artificial intelligence (AI) is a branch of computer science that aims to create intelligent machines capable of performing tasks that typically require human intelligence. These tasks include speech recognition, decision-making, visual perception, language translation, and more. AI systems are designed to learn from data, adapt to new inputs, and perform human-like tasks."
+      ]
+    },
+    {
+      "tag": "deep-learning",
+      "patterns": [
+        "What is deep learning?",
+        "What is the application of deep learning?"
+      ],
+      "responses": [
+        "Deep learning is a subset of machine learning that uses neural networks with multiple layers (hence the term \"deep\"). These deep neural networks can learn from large amounts of data with minimal human supervision, enabling them to identify complex patterns and make decisions or predictions.",
+        "Hey there! Deep learning is a fascinating field in artificial intelligence that involves training artificial neural networks to learn and make decisions on their own. These neural networks are inspired by the human brain's structure and function."
+      ]
+    },
+    {
+      "tag": "machine-learning",
+      "patterns": [
+        "What is machine learning?",
+        "What is ML?",
+        "What are the types of machine learning?",
+        "What is the application of ML?",
+        "What is the application of machine learning?"
+      ],
+      "responses": [
+        "Hey there! \u00f0\u0178\u00a4\u2013 Let's dive into the exciting world of machine learning! Machine learning is an application of artificial intelligence (AI) that enables systems to automatically learn and improve from experience without being explicitly programmed. This learning happens through the use of algorithms that analyze data, recognize patterns, and make decisions with minimal human intervention. ### Types of Machine Learning: 1. Supervised Learning: This type of learning involves training a model on a labeled dataset, where the model learns to map input data to the correct output. 2. Unsupervised Learning: Here, the model is trained on unlabeled data with the goal of discovering hidden patterns or intrinsic structures. 3. Reinforcement Learning: In this setup, the algorithm learns to make decisions by interacting with an environment and receiving feedback in the form of rewards or penalties.",
+        "Hey there! Machine learning is like teaching your computer to learn from data and make decisions without being explicitly programmed for every scenario. It's a subset of artificial intelligence that focuses on developing algorithms that enable computers to learn insights from data and improve their performance over time.",
+        "Hey there! Great question! Machine learning is a fascinating field within artificial intelligence that focuses on developing algorithms and models that allow computers to learn and make decisions or predictions based on data, without being explicitly programmed to do so. In essence, it's about creating systems that can automatically learn and improve from experience."
+      ]
+    },
+    {
+      "tag": "neural-network",
+      "patterns": [
+        "What is a neural network?",
+        "What is the use of neural network?"
+      ],
+      "responses": [
+        "Neural networks are a set of algorithms modeled loosely after the human brain, designed to recognize patterns. These networks consist of layers of interconnected nodes (neurons) that work together to process complex information."
+      ]
+    }
+  ]
+}

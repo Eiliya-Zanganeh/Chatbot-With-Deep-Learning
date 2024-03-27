@@ -1,0 +1,4 @@
+What is a neural network?
+What is the use of neural network?
+---
+Neural networks are a set of algorithms modeled loosely after the human brain, designed to recognize patterns. These networks consist of layers of interconnected nodes (neurons) that work together to process complex information.

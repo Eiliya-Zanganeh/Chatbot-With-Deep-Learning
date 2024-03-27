@@ -1,0 +1,7 @@
+What is artificial intelligence?
+What is AI?
+What is the use of artificial intelligence?
+What are the capabilities of artificial intelligence?
+---
+Hey there! Artificial Intelligence (AI) is like the brainiac of the digital world. 🧠 It's all about making machines do tasks that typically require human intelligence. From recognizing speech to playing games to driving cars, AI is everywhere these days! At its core, AI tries to simulate human intelligence in machines. This means getting computers to perform tasks like reasoning, learning, problem-solving, perception, and understanding language.
+Hey there! Great question! 🤖 Artificial intelligence (AI) is a branch of computer science that aims to create intelligent machines capable of performing tasks that typically require human intelligence. These tasks include speech recognition, decision-making, visual perception, language translation, and more. AI systems are designed to learn from data, adapt to new inputs, and perform human-like tasks.
